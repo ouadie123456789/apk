@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Likee Bridge</string>
+    <string name="accessibility_service_label">Likee Chat Bridge</string>
+    <string name="accessibility_service_description">Reads live chat text from Likee and forwards it to your configured server. Only active while Likee is in the foreground.</string>
+</resources>
